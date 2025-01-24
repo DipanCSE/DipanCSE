@@ -1,3 +1,4 @@
+![logo](https://github.com/DipanCSE/DipanCSE/blob/main/GitBanner.jpg)
 <h2 align="center">Hi 👋, I'm Dipan Majumder</h2>
 
 ###
