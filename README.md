@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on Building a responsive e-commerce website for a local business<br><br>🌱 I’m currently learning Advanced Next.js , DSA , GenAI and GraphQL integration<br><br>👯 I’m looking to collaborate on Open-source projects focused on MERN stack development<br><br>🤝 I’m looking for help with Improving deployment strategies with Docker and Kubernetes<br><br>👨‍💻 All of my projects are available at https://github.com/DipanCSE<br><br>💬 Ask me about React, Node.js, and optimizing database queries with MongoDB andMySQL<br><br>📖As a passionate self-learner, I’ve built my skills by diving into real-world projects, exploring cutting-edge technologies, and experimenting with new frameworks. I believe curiosity and persistence are my greatest teachers.<br><br>📫 How to reach me dipanmajumder55@gmail.com<br><br>⚡ Fun fact I once debugged a 3,000-line spaghetti code project in one night... with pizza as my only companion!</h4>
+<h4 align="left">🔭 I’m currently working on Building a responsive e-commerce website for a local business<br><br>🌱 I’m currently learning Advanced Next.js , DSA , GenAI and GraphQL integration<br><br>👯 I’m looking to collaborate on Open-source projects focused on MERN stack development<br><br>🤝 I’m looking for help with Improving deployment strategies with Docker and Kubernetes<br><br>👨‍💻 All of my projects are available at https://github.com/DipanCSE<br><br>💬 Ask me about React, Node.js, and optimizing database queries with MongoDB andMySQL<br><br>📖As a passionate self-learner, I’ve built my skills by diving into real-world projects, exploring cutting-edge technologies, and experimenting with new frameworks. I believe curiosity and persistence are my greatest teachers.<br><br>⚡ Fun fact I once debugged a 3,000-line spaghetti code project in one night... with pizza as my only companion!</h4>
 
 ###
 
@@ -155,7 +155,7 @@
   <a href="https://www.linkedin.com/in/dipan-majumder-a62760301/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:dipanmajumder55@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#drafts?compose=DmwnWrRqgkNjCWcmrNjwwhXbxBvfZjprsxNTLVwhBLZWBcDccPLxdkwLMTktlJLxgXvpPnPFgmfB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/invites/contact/?i=1crckgsa64syn&utm_content=ob1jpla" target="_blank">
