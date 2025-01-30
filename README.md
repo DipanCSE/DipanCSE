@@ -147,6 +147,13 @@
 
 ###
 
+<div align="center">
+  <h2>LeetCode Progress</h2>
+  <img src="https://leetcard.jacoblin.cool/Dipan330?border=0&radius=20" alt="LeetCode Stats">
+</div>
+
+###
+
 <h4 align="left">Connect with me:</h4>
 
 ###
